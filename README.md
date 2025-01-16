@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm 10txn</h1>
 <h3 align="center">I'm currently working on learning game hacking with c++ and web development.</h3>
 
-- 📋 I’m currently working on [guns.lol recreation](https://github.com/Tentonaviation/myfirstextension-adblocker)
+- 📋 I’m currently working on a [simple bio site](https://github.com/10txn/bio-site)
 
 - 📚 I’m currently learning **C++, react**
 
