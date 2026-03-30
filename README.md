@@ -1,5 +1,8 @@
 # 💫 About Me:
-📋 I’m currently working on a portfolio<br><br>📚 I’m currently learning C++<br>
+📋 I’m currently working on learning imgui
+<br><br>
+📚 I’m currently learning C++ & imgui
+<br>
 
 
 # 💻 Tech Stack:
