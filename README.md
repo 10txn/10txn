@@ -3,7 +3,7 @@
 <br><br>
 📚 I’m currently learning C++ & imgui
 <br><br>
-🔗 ![Portfolio](https://10txn.xyz)
+🔗 [Portfolio](https://www.10txn.xyz/)
 
 
 # 💻 Tech Stack:
